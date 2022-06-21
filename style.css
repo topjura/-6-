@@ -1,0 +1,18 @@
+.card{
+    width: 700px;
+    height: 400px;
+    background-image: url('bg.jpeg');
+   background-size: cover;
+   border-radius: 80px;
+   font-family: 'Fascinate', cursive;
+   
+}
+.cc{
+    color: rgb(255, 51, 0);
+text-align: center;
+
+}
+.cn{
+    color: rgb(117, 2, 2);
+ text-align: center;
+}
